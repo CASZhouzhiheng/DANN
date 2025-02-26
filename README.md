@@ -13,7 +13,7 @@ PyTorch,NumPy
 
 ## Example Usage
 ```python
-# Importing the BGAN model
+# Importing the DANN model
 from DANN import DANN
 
 # Creating an instance of the DANN model
